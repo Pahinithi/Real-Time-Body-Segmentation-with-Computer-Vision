@@ -31,7 +31,7 @@ To get started with this project, follow the steps below.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/real-time-body-segmentation.git
+   git clone https://github.com/Pahinithi/Real-Time-Body-Segmentation-with-Computer-Vision
    ```
 
 2. **Navigate to the project folder**:
@@ -132,3 +132,13 @@ Contributions are welcome! Please follow the standard GitHub flow:
 ## License
 
 This project is licensed under the MIT License. 
+
+## Contact
+
+For any questions or support, please contact:
+
+- **Name**: Pahirathan Nithilan
+- **Email**: [nithilan32@gmail.com](mailto:nithilan32@gmail.com)
+- **GitHub**: [Pahinithi](https://github.com/Pahinithi)
+
+
