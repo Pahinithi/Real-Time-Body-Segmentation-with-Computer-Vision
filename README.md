@@ -20,10 +20,7 @@ This project is a **Real-Time Body Segmentation** application using **TensorFlow
 - [License](#license)
 
 ## Demo
-You can experience the body segmentation in action by cloning the repository and running it locally. Below is a quick look at the app interface:
-
-### Demo
-![Demo](https://drive.google.com/file/d/1fiF84TYt5BSwg_6VPGitpvrlhG06icxf/view?usp=sharing)
+click ( https://drive.google.com/file/d/1fiF84TYt5BSwg_6VPGitpvrlhG06icxf/view?usp=sharing)
 
 ## Installation
 
