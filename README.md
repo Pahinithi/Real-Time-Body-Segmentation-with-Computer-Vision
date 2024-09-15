@@ -20,7 +20,8 @@ This project is a **Real-Time Body Segmentation** application using **TensorFlow
 - [License](#license)
 
 ## Demo
-click (https://drive.google.com/file/d/1fiF84TYt5BSwg_6VPGitpvrlhG06icxf/view?usp=sharing)
+
+**Live Demo**: [Click here to view the live demo](https://drive.google.com/file/d/1fiF84TYt5BSwg_6VPGitpvrlhG06icxf/view?usp=sharing)
 
 ## Installation
 
